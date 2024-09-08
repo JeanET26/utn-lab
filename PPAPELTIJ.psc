@@ -1,29 +1,42 @@
 Algoritmo PPAPELTIJ
-	
+	Esperar 2 Segundos
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
 	Escribir "	        _    ,-,    _                            __________  .___  ___________ ________    __________    _____  "
-	Escribir " ,--, /: :\/´: :`\/: :\                           \______   \ |   | \_   _____/ \______ \   \______   \  /  _  \  "
-	Escribir "|`;  ´ `,´   `.;    `: |                           |     ___/ |   |  |    __)_   |    |  \   |       _/ /  /_\  \"
-	Escribir "|    |     |  ´  |     |.                          |    |     |   |  |        \  |    `   \  |    |   \/    |    \"
+	Escribir " ,--, /: :\/Â´: :`\/: :\                           \______   \ |   | \_   _____/ \______ \   \______   \  /  _  \  "
+	Escribir "|`;  Â´ `,Â´   `.;    `: |                           |     ___/ |   |  |    __)_   |    |  \   |       _/ /  /_\  \"
+	Escribir "|    |     |  Â´  |     |.                          |    |     |   |  |        \  |    `   \  |    |   \/    |    \"
 	Escribir "| :  |     | pb  |     ||                          |____|     |___| /_______  / /_______  /  |____|_  /\____|__  /"
 	Escribir "		| :. |  :  |  :  |  :  | \                                                  \/          \/          \/         \/"
 	Escribir "	 \__/: :.. : :.. | :.. |  )"
-	Escribir "	     `---´,\___/,\___/ /´"
-	Escribir "	          `==._ .. . /´"
-	Escribir "	               `-::-´"
+	Escribir "	     `---Â´,\___/,\___/ /Â´"
+	Escribir "	          `==._ .. . /Â´"
+	Escribir "	               `-::-Â´"
 	Escribir "	"
-	
-	Escribir "           /´\"
-	Escribir "      /´´\|\./|/´´\"
+	Esperar 1 Segundos
+	Borrar Pantalla
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir "           /Â´\"
+	Escribir "      /Â´Â´\|\./|/Â´Â´\"
 	Escribir "      |\./|   |\./|"
 	Escribir "      |   |   |   |"
-	Escribir "      |   |>~<|   |/´´\"
+	Escribir "      |   |>~<|   |/Â´Â´\"
 	Escribir "      |>~<|   |>~<|\./|"
 	Escribir "      |   |   |   |   |                            __________     _____    __________  ___________ .____     "
 	Escribir "  /~T\|   |   =[@]=   |                             \______   \   /  _  \   \______   \ \_   _____/ |    |"
 	Escribir "  |_/ |   |   |   |   |							                              |     ___/  /  /_\  \   |     ___/  |    __)_  |    | "
 	Escribir "  |   | ~   ~   ~ |   |						                              |    |     /    |    \  |    |      |        \ |    |___"
 	Escribir "  |~< |             ~ |						                              |____|     \____|__  /  |____|     /_______  / |_______ \"
-	Escribir "  |   ´               |                                                 \/                      \/          \/"
+	Escribir "  |   Â´               |                                                 \/                      \/          \/"
 	Escribir "  \                   |"
 	Escribir "   \                 /"
 	Escribir "    \               /"
@@ -32,22 +45,29 @@ Algoritmo PPAPELTIJ
 	Escribir "      |          |"
 	Escribir ""
 	Escribir ""
-	
+	Esperar 1 Segundos
+	Borrar Pantalla
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
 	Escribir "               ____"
 	Escribir "   ____       /    \"
 	Escribir "  |    \      |    |"
 	Escribir "  \     \     | . .|"
-	Escribir "   \ . ´ \    |    |"
+	Escribir "   \ . Â´ \    |    |"
 	Escribir "    \     \   | . .|                               ___________ .___       ____. ___________ __________     _____    "
-	Escribir "     \ . ´ \  |    |                               \__    ___/ |   |     |    | \_   _____/ \______   \   /  _  \ "
+	Escribir "     \ . Â´ \  |    |                               \__    ___/ |   |     |    | \_   _____/ \______   \   /  _  \ "
 	Escribir "    __\     \_| . .|                                 |    |    |   |     |    |  |    __)_   |       _/  /  /_\  \"
-	Escribir "   /   \ . ´       |                                 |    |    |   | /\__|    |  |        \  |    |   \ /    |    \ "
+	Escribir "   /   \ . Â´       |                                 |    |    |   | /\__|    |  |        \  |    |   \ /    |    \ "
 	Escribir "   \   _\_______   |                                 |____|    |___| \________| /_______  /  |____|_  / \____|__  / "
 	Escribir "  __\ (         \  |                                                                    \/          \/          \/ "
 	Escribir " /   \ \_____.   \ |"
-	Escribir " \   \`---´  \    \|"
+	Escribir " \   \`---Â´  \    \|"
 	Escribir "  \   \      /     |"
-	Escribir "   `---´    /      |"
+	Escribir "   `---Â´    /      |"
 	Escribir "    \      |      /"
 	Escribir "     \___________/"
 	Escribir ""
@@ -59,21 +79,24 @@ Algoritmo PPAPELTIJ
 	Escribir ""
 	Escribir ""
 	Escribir ""
-	
+	Esperar 2 Segundos
+	Borrar Pantalla
 	Escribir "            .-.   .-. .-.    .----.    .---.    .----.    .-. .-.    .---.     .---.    .-.    .----.    .-. .-.   .----.    .----."
 	Escribir "            | |   |  `| |   { {__     {_   _}   | {}  }   | { } |   /  ___}   /  ___}   | |   /  {}  \   |  `| |   | {_     { {__  "
 	Escribir "            | |   | |\  |   .-._} }     | |     | .-. \   | {_} |   \     }   \     }   | |   \      /   | |\  |   | {__    .-._} }"
-	Escribir "            `-´   `-´ `-´   `----´      `-´     `-´ `-´   `-----´    `---´     `---´    `-´    `----´    `-´ `-´   `----´   `----´ "
+	Escribir "            `-Â´   `-Â´ `-Â´   `----Â´      `-Â´     `-Â´ `-Â´   `-----Â´    `---Â´     `---Â´    `-Â´    `----Â´    `-Â´ `-Â´   `----Â´   `----Â´ "
 	Escribir ""
 	Escribir ""
-	Escribir "                                                                      ¡ H O L A !"
+	Escribir "                                                                      Â¡ H O L A !"
+	Escribir "										"
 	Escribir "                                                             P A R A   J U G A R   D E B E S"
-	Escribir "                                                       S E L E C C I O N A R   U N A  O P C I Ó N :"
+	Escribir "                                                       S E L E C C I O N A R   U N A  O P C I Ã“ N :"
 	Escribir "                                                      P I E D R A ,   P A P E L ,   O   T I J E R A ."
 	Escribir "										"
 	Escribir "                                                         T I E N E S   T R E S   I N T E N T O S :"
 	Escribir "										"
 	Escribir "                                                         S I   G A N A S   D O S   D E   T R E S , "
+	Escribir "                                                                O   S I   E M P A T A S ,"
 	Escribir "                                                               P A S A S   D E   R O N D A ."
 	Escribir "										"
 	Escribir "                                                                    S I N O ,   H A S"
@@ -82,11 +105,21 @@ Algoritmo PPAPELTIJ
 	Escribir ""
 	Escribir ""
 	Escribir ""
+	Escribir "                                                        P A R A   C O N T I N U A R   P R E S I O N A"
+	Escribir "                                                                 C U A L Q U I E R   L E T R A"
+	Esperar Tecla
+	Borrar Pantalla
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
 	Escribir "                                                                        E L I G E :"
 	Escribir "                                                                      (1) P I E D R A"
 	Escribir "                                                                      (2) P A P E L"
 	Escribir "                                                                      (3) T I J E R A"
-	
 	
 	Definir i, victorias_usuario, victorias_cpu Como Entero
 	Definir opciones, cpu_opciones Como Entero
@@ -99,17 +132,19 @@ Algoritmo PPAPELTIJ
 	Para i<-1 Hasta limite Con Paso 1 Hacer
 		Leer opciones
 		Si opciones= cpu_opciones Entonces
+			Borrar Pantalla
+			Esperar 1 Segundos
 			Escribir "                                                                       E M P A T E "
 			Escribir "              "
 			Escribir"                                                                     __..,,... .,,,,,. "
-			Escribir"                                                                 ´´´´        ,´        ` ."
-			Escribir"                                                                          , ´  ,.  ..      `  ."
-			Escribir"                                                                          `.,´      ..           `"
+			Escribir"                                                                 Â´Â´Â´Â´        ,Â´        ` ."
+			Escribir"                                                                          , Â´  ,.  ..      `  ."
+			Escribir"                                                                          `.,Â´      ..           `"
 			Escribir"                                                                 __..,.             .  ..     ."
 			Escribir"                                                                       ` .       .  `.  .` `"
 			Escribir"                                                                           ,  `.  `.  `._|,.."
-			Escribir"                                                                             .  `.  `..´"
-			Escribir"                                                                               ` -´`´´"
+			Escribir"                                                                             .  `.  `..Â´"
+			Escribir"                                                                               ` -Â´`Â´Â´"
 			Escribir "              "
 			Escribir "              "
 			victorias_cpu=victorias_cpu+1
@@ -118,18 +153,20 @@ Algoritmo PPAPELTIJ
 		SiNo
 			Segun opciones Hacer
 				1: //Piedra
+					Borrar Pantalla
+					Esperar 1 Segundos
 					Si cpu_opciones = 2 Entonces
 						Escribir "                                           P L A Y E R   2   H A   E L E G I D O   P A P E L"
-						Escribir "          	             _    ,-,    _                                  /´\   "
-						Escribir "                   ,--, /: :\/´: :`\/: :\                           /´´\|\./|/´´\  "
-						Escribir "                  |`;  ´ `,´   `.;    `: |                          |\./|   |\./| "
-						Escribir "                  |    |     |  ´  |     |.                         |   |>~<|   |/´´\"
+						Escribir "          	             _    ,-,    _                                  /Â´\   "
+						Escribir "                   ,--, /: :\/Â´: :`\/: :\                           /Â´Â´\|\./|/Â´Â´\  "
+						Escribir "                  |`;  Â´ `,Â´   `.;    `: |                          |\./|   |\./| "
+						Escribir "                  |    |     |  Â´  |     |.                         |   |>~<|   |/Â´Â´\"
 						Escribir "                  | :  |     | pb  |     ||           V S           |>~<|   |>~<|\./|     "
 						Escribir "	                 | :. |  :  |  :  |  :  | \                    /~T\|   |   =[@]=   | "
 						Escribir "	                  \__/: :.. : :.. | :.. |  )                   |_/ |   |   |   |   |"
-						Escribir "	                       `---´,\___/,\___/ /´                    |   | ~   ~   ~ |   |"
-						Escribir "	                           `==._ .. . /´                       |   ´               |"
-						Escribir "	                                `-::-´                          \                 /"
+						Escribir "	                       `---Â´,\___/,\___/ /Â´                    |   | ~   ~   ~ |   |"
+						Escribir "	                           `==._ .. . /Â´                       |   Â´               |"
+						Escribir "	                                `-::-Â´                          \                 /"
 						Escribir "	                                                                 \               /"
 						Escribir "                                                                   \             /"
 						Escribir "                                                                    |           | "
@@ -140,19 +177,21 @@ Algoritmo PPAPELTIJ
 						Escribir "              "
 						victorias_cpu=victorias_cpu+1
 					SiNo
+						Borrar Pantalla
+						Esperar 1 Segundos
 						Escribir "                                           P L A Y E R   2   H A   E L E G I D O   T I J E R A"
 						Escribir "                                                  "
 						Escribir "                              _    ,-,    _                                             ____" 
-						Escribir "                       ,--, /: :\/´: :`\/: :\                               ____       /    \ "
-						Escribir "                      |`;  ´ `,´   `.;    `: |                              \    \     | . .|"
-						Escribir "                      |    |     |  ´  |     |.                              \    \    | . .|  "
+						Escribir "                       ,--, /: :\/Â´: :`\/: :\                               ____       /    \ "
+						Escribir "                      |`;  Â´ `,Â´   `.;    `: |                              \    \     | . .|"
+						Escribir "                      |    |     |  Â´  |     |.                              \    \    | . .|  "
 						Escribir "                      | :  |     | pb  |     ||           V S                __\    \_ | . .|    "
-						Escribir "                      | :. |  :  |  :  |  :  | \                            /   \ . ´       |"
+						Escribir "                      | :. |  :  |  :  |  :  | \                            /   \ . Â´       |"
 						Escribir "                       \__/: :.. : :.. | :.. |  )                           \   _\_______   |"
-						Escribir "                            `---´,\___/,\___/ /´                           __\ (         \  |"
-						Escribir "                                 `==._ .. . /´                            /   \ \_____.   \ |"
-						Escribir "                                      `-::-´                              \   \`---´  \    \|"
-						Escribir "                                                                           `---´    /       |"
+						Escribir "                            `---Â´,\___/,\___/ /Â´                           __\ (         \  |"
+						Escribir "                                 `==._ .. . /Â´                            /   \ \_____.   \ |"
+						Escribir "                                      `-::-Â´                              \   \`---Â´  \    \|"
+						Escribir "                                                                           `---Â´    /       |"
 						Escribir "                                                                             \      |      / "
 						Escribir "                                                                              \___________/"
 						Escribir " "
@@ -162,20 +201,22 @@ Algoritmo PPAPELTIJ
 						victorias_usuario=victorias_usuario+1
 					Fin Si
 				2: //papel
+					Borrar Pantalla
+					Esperar 1 Segundos
 					Si cpu_opciones=1 Entonces
 						Escribir "                                          P L A Y E R   2   H A   E L E G I D O   P I E D R A"
 						Escribir " "
-						Escribir "          	                         /´\   "
-						Escribir "                               /´\|\./|/´\                                      _    ,-,    _  "
-						Escribir "                              |\./|   |\./|                              ,--, /: :\/´: :`\/: :\ "
-						Escribir "                              |   |>~<|   |/´\                          |`;  ´ `,´   `.;    `: |"
-						Escribir "                              |>~<|   |>~<|\./|              V S        |    |     |  ´  |     |."
+						Escribir "          	                         /Â´\   "
+						Escribir "                               /Â´\|\./|/Â´\                                      _    ,-,    _  "
+						Escribir "                              |\./|   |\./|                              ,--, /: :\/Â´: :`\/: :\ "
+						Escribir "                              |   |>~<|   |/Â´\                          |`;  Â´ `,Â´   `.;    `: |"
+						Escribir "                              |>~<|   |>~<|\./|              V S        |    |     |  Â´  |     |."
 						Escribir "	                          /~T\|   |   =[@]=   |                         | :  |     | pb  |     || "
 						Escribir "	                          |_/ |   |   |   |   |                         | :. |  :  |  :  |  :  | \"
 						Escribir "	                          |   | ~   ~   ~ |   |                          \__/: :.. : :.. | :.. |  )"
-						Escribir "	                          |   ´               |                               `---´,\___/,\___/ /´"
-						Escribir "	                           \                 /                                      `==._ .. . /´"
-						Escribir "	                            \               /                                            `-::-´"
+						Escribir "	                          |   Â´               |                               `---Â´,\___/,\___/ /Â´"
+						Escribir "	                           \                 /                                      `==._ .. . /Â´"
+						Escribir "	                            \               /                                            `-::-Â´"
 						Escribir "                              \             /"
 						Escribir "                               |           | "
 						Escribir " "
@@ -185,20 +226,22 @@ Algoritmo PPAPELTIJ
 						Escribir "              "
 						victorias_usuario=victorias_usuario+1
 					SiNo
+						Borrar Pantalla
+						Esperar 1 Segundos
 						Escribir "                                          P L A Y E R   2   H A   E L E G I D O   T I J E R A"
 						Escribir " "
-						Escribir "                                    /´\   "
-						Escribir "                                /´\|\./|/´\                                                 ____ "
+						Escribir "                                    /Â´\   "
+						Escribir "                                /Â´\|\./|/Â´\                                                 ____ "
 						Escribir "                               |\./|   |\./|                                    ____       /    \"
-						Escribir "                               |   |>~<|   |/´\                                 \    \     | . .|"
+						Escribir "                               |   |>~<|   |/Â´\                                 \    \     | . .|"
 						Escribir "                               |>~<|   |>~<|\./|              V S                \    \    | . .|"
 						Escribir "	                           /~T\|   |   =[@]=   |                                 __\    \_ | . .| "
-						Escribir "	                           |_/ |   |   |   |   |                                /   \ . ´       |"
+						Escribir "	                           |_/ |   |   |   |   |                                /   \ . Â´       |"
 						Escribir "                           |   | ~   ~   ~ |   |                                \   _\_______   |"
-						Escribir "                           |   ´               |                               __\ (         \  |"
+						Escribir "                           |   Â´               |                               __\ (         \  |"
 						Escribir "                            \                 /                               /   \ \_____.   \ |"
-						Escribir "                             \               /                                \   \`---´  \    \|"
-						Escribir "                              \             /                                  `---´    /       |"
+						Escribir "                             \               /                                \   \`---Â´  \    \|"
+						Escribir "                              \             /                                  `---Â´    /       |"
 						Escribir "                               |           |                                     \      |      /"
 						Escribir "                                                                                  \___________/"
 						Escribir " "
@@ -209,19 +252,21 @@ Algoritmo PPAPELTIJ
 						victorias_cpu=victorias_cpu+1
 					Fin Si
 				3: //tijera
+					Borrar Pantalla
+					Esperar 1 Segundos
 					Si cpu_opciones = 2 Entonces
 						Escribir "                                         P L A Y E R   2   H A   E L E G I D O   P A P E L"
 						Escribir "                                                 ____" 
-						Escribir "                                     ____       /    \                          	           /´\   "
-						Escribir "                                     \    \     | . .|                                  /´\|\./|/´\"
+						Escribir "                                     ____       /    \                          	           /Â´\   "
+						Escribir "                                     \    \     | . .|                                  /Â´\|\./|/Â´\"
 						Escribir "                                      \    \    | . .|                                 |\./|   |\./|"
-						Escribir "                                      __\    \_ | . .|           V S                   |   |>~<|   |/´\"
-						Escribir "                                     /   \ . ´       |                                 |>~<|   |>~<|\./|"
+						Escribir "                                      __\    \_ | . .|           V S                   |   |>~<|   |/Â´\"
+						Escribir "                                     /   \ . Â´       |                                 |>~<|   |>~<|\./|"
 						Escribir "                                     \   _\_______   |                             /~T\|   |   =[@]=   |"
 						Escribir "                                    __\ (         \  |                             |_/ |   |   |   |   |"
 						Escribir "                                   /   \ \_____.   \ |                             |   | ~   ~   ~ |   |"
-						Escribir "                                   \   \`---´  \    \|                             |   ´               |"
-						Escribir "                                    `---´    /       |                              \                 /"
+						Escribir "                                   \   \`---Â´  \    \|                             |   Â´               |"
+						Escribir "                                    `---Â´    /       |                              \                 /"
 						Escribir "                                      \      |      /                                \               /"
 						Escribir "                                       \___________/                                  \             /  "
 						Escribir " "
@@ -231,19 +276,21 @@ Algoritmo PPAPELTIJ
 						Escribir "              "
 						victorias_usuario=victorias_usuario+1
 					SiNo
+						Borrar Pantalla
+						Esperar 1 Segundos
 						Escribir "                                         P L A Y E R   2   H A   E L E G I D O   P I E D R A"
 						Escribir "                                                 ____" 
 						Escribir "                                     ____       /    \ "
 						Escribir "                                     \    \     | . .|                                 _    ,-,    _  "
-						Escribir "                                      \    \    | . .|                          ,--, /: :\/´: :`\/: :\"
-						Escribir "                                      __\    \_ | . .|           V S           |`;  ´ `,´   `.;    `: |"
-						Escribir "                                     /   \ . ´       |                         |    |     |  ´  |     |."
+						Escribir "                                      \    \    | . .|                          ,--, /: :\/Â´: :`\/: :\"
+						Escribir "                                      __\    \_ | . .|           V S           |`;  Â´ `,Â´   `.;    `: |"
+						Escribir "                                     /   \ . Â´       |                         |    |     |  Â´  |     |."
 						Escribir "                                     \   _\_______   |                         | :  |     | mv  |     ||"
 						Escribir "                                    __\ (         \  |                         | :. |  :  |  :  |  :  | \"
 						Escribir "                                   /   \ \_____.   \ |                          \__/: :.. : :.. | :.. |  )"
-						Escribir "                                   \   \`---´  \    \|                                `---´,\___/,\___/ /´"
-						Escribir "                                    `---´    /       |                                      `==._ .. . /´"
-						Escribir "                                      \      |      /                                            `-::-´"
+						Escribir "                                   \   \`---Â´  \    \|                                `---Â´,\___/,\___/ /Â´"
+						Escribir "                                    `---Â´    /       |                                      `==._ .. . /Â´"
+						Escribir "                                      \      |      /                                            `-::-Â´"
 						Escribir "                                       \___________/"
 						Escribir " "
 						Escribir "                                                   P I E D R A   M A T A   T I J E R A "
@@ -253,13 +300,16 @@ Algoritmo PPAPELTIJ
 						victorias_cpu=victorias_cpu+1
 					Fin Si
 				De Otro Modo:
+					Borrar Pantalla
+					Esperar 1 Segundos
 					Escribir "                                                    P O R   F A V O R   I N G R E S E   U N A "
-					Escribir "                                                           O P C I Ó N    V Á L I D A "
+					Escribir "                                                           O P C I Ã“ N    V Ã L I D A "
 					Escribir "              "
 					Escribir "              "
 					Escribir "              "
 			Fin Segun
-			Escribir "                                                                T Ú:                   ", victorias_usuario
+			Esperar 1 Segundos
+			Escribir "                                                                T Ãš:                   ", victorias_usuario
 			Escribir "                                                                P L A Y E R   2:       ", victorias_cpu
 			Escribir "              "
 			Escribir "              "
@@ -267,10 +317,31 @@ Algoritmo PPAPELTIJ
 		FinSi
 	Fin Para
 	
+	Si victorias_cpu = victorias_usuario Entonces
+		Borrar Pantalla
+		Esperar 1 Segundos
+		Escribir "                                                                       E M P A T E "
+		Escribir "              "
+		Escribir"                                                                     __..,,... .,,,,,. "
+		Escribir"                                                                 Â´Â´Â´Â´        ,Â´        ` ."
+		Escribir"                                                                          , Â´  ,.  ..      `  ."
+		Escribir"                                                                          `.,Â´      ..           `"
+		Escribir"                                                                 __..,.             .  ..     ."
+		Escribir"                                                                       ` .       .  `.  .` `"
+		Escribir"                                                                           ,  `.  `.  `._|,.."
+		Escribir"                                                                             .  `.  `..Â´"
+		Escribir"                                                                               ` -Â´`Â´Â´"
+		Escribir "              "
+		Escribir "              "
+		
+	FinSi
 	
-	Si victorias_cpu = 2 y victorias_usuario = 1  Entonces
+	Si victorias_cpu>victorias_usuario  Entonces
+		Borrar Pantalla
+		Esperar 1 Segundos
 		Escribir"                                                                       uuuuuuu"
 		Escribir"                                                                   uu$$$$$$$$$$$uu			"
+		Esperar 1 Segundos
 		Escribir"                                                                uu$$$$$$$$$$$$$$$$$uu			"
 		Escribir"                                                               u$$$$$$$$$$$$$$$$$$$$$u		"
 		Escribir"                                                              u$$$$$$$$$$$$$$$$$$$$$$$u		"
@@ -285,6 +356,7 @@ Algoritmo PPAPELTIJ
 		Escribir"                                                                  u$$$$$$$u$$$$$$$u      "
 		Escribir"                                                                   u$$$$$$$$$$$$$u       "
 		Escribir"                                                        uuu        $$u$ $ $ $ $u$$       uuu   "
+		Esperar 1 Segundos
 		Escribir"                                                       u$$$$        $$$$$u$u$u$$$       u$$$$   "
 		Escribir"                                                        $$$$$uu       $$$$$$$$$     uu$$$$$$   "
 		Escribir"                                                      u$$$$$$$$$$$uu    $$$$$    uuuu$$$$$$$$$$  "
@@ -295,10 +367,14 @@ Algoritmo PPAPELTIJ
 		Escribir"                                                        $$$$$$$$$$$$$$           $$$$$$$$$$$$$$ "
 		Escribir"                                                         $$$$$$                     $$$$$$$$ "
 		Escribir"                                                         $$$$                         $$$$$  "
+		Esperar 1 Segundos
 		Escribir "                                                                  P E R D I S T E                  "
 	SiNo
+		Borrar Pantalla
+		Esperar 1 Segundos
 		Escribir"                                                                     __ooooooooo__"
 		Escribir"                                                                oOOOOOOOOOOOOOOOOOOOOOo"
+		Esperar 1 Segundos
 		Escribir"                                                            oOOOOOOOOOOOOOOOOOOOOOOOOOOOOOo"
 		Escribir"                                                        oOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOo"
 		Escribir"                                                      oOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOo"
@@ -310,6 +386,7 @@ Algoritmo PPAPELTIJ
 		escribir"                                                 oOOOO     OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO     OOOOo"
 		Escribir"                                                 oOOOOOO OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO OOOOOOo"
 		Escribir"                                                  *OOOOO  OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO  OOOOO*"
+		Esperar 1 Segundos
 		Escribir"                                                  *OOOOOO  *OOOOOOOOOOOOOOOOOOOOOOOOOOOOO*  OOOOOO*"
 		Escribir"                                                   *OOOOOO  *OOOOOOOOOOOOOOOOOOOOOOOOOOO*  OOOOOO*"
 		Escribir"                                                    *OOOOOOo  *OOOOOOOOOOOOOOOOOOOOOOO*  oOOOOOO*"
@@ -319,7 +396,9 @@ Algoritmo PPAPELTIJ
 		Escribir"                                                                *OOOOOOOOOOOOOOOOOOOOO*           "         
 		Escribir"                                                                       ooooooooo "
 		Escribir "                                                    "
-		Escribir  "                                                     ¡ F E L I C I D A D E S ,   G A N A S T E !"
+		Esperar 1 Segundos
+		Escribir  "                                                     Â¡ F E L I C I D A D E S ,   G A N A S T E !"
+		
 	Fin Si
 
 
