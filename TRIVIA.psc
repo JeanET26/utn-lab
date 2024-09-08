@@ -1,4 +1,6 @@
 Algoritmo TRIVIA
+	Esperar 3 Segundos
+	Borrar Pantalla
 	Escribir "                            "
 	Escribir "                            "
 	Escribir "                            "
@@ -9,27 +11,83 @@ Algoritmo TRIVIA
 	Escribir "                            "
 	Escribir "                            "
 	Escribir "                            "
-	Escribir"          ,----,                                                                                    "                
-	Escribir"        ,/   .`|                                                                                         "           
-	Escribir"      ,`   .`  :         ,-.----.               ,---,                                 ,---,            ,---,   "     
-	Escribir"    ;    ;     /         \    /  \           ,`--.` |                ,---.         ,`--.` |           `  .` \  "     
-	Escribir"  .`___,/    ,`          ;   :    \          |   :  :               /__./|         |   :  :          /  ;    `. "    
-	Escribir"  |    :     |           |   | .\ :          :   |  `          ,---.;  ; |         :   |  `         :  :       \ "   
-	Escribir"  ;    |.`;  ;           .   : |: |          |   :  |         /___/ \  | |         |   :  |         :  |   /\   \ "  
-	Escribir"  `----`  |  |           |   |  \ :          '   '  ;         \   ;  \ ` |         '   '  ;         |  :  ` ;.   : " 
-	Escribir"      `   :  ;           |   : .  /          |   |  |          \   \  \: |         |   |  |         |  |  ;/  \   \ "
-	Escribir"      |   |  `           ;   | |  \          `   :  ;           ;   \  ` .         `   :  ;         `  :  | \  \ ,` "
-	Escribir"      `   :  |           |   | ;\  \         |   |  `            \   \   `         |   |  `         |  |  `  `--`   "
-	Escribir"      ;   |.`            :   ` | \.`         `   :  |             \   `  ;         `   :  |         |  :  :         "
-	Escribir"      `---`              :   : :-`           ;   |.`               :   \ |         ;   |.`          |  | ,`         "
-	Escribir"                        |   |.`             `---`                  `---``          `---`            `--``           "
-	Escribir"                        `---`                                                                                     "
+	Escribir"               ,----,                                                                                    "                
+	Escribir"             ,/   .`|                                                                                         "           
+	Escribir"           ,`   .`  :         ,-.----.               ,---,                                 ,---,            ,---,   "     
+	Escribir"         ;    ;     /         \    /  \           ,`--.` |                ,---.         ,`--.` |           `  .` \  "     
+	Escribir"       .`___,/    ,`          ;   :    \          |   :  :               /__./|         |   :  :          /  ;    `. "    
+	Escribir"       |    :     |           |   | .\ :          :   |  `          ,---.;  ; |         :   |  `         :  :       \ "   
+	Escribir"       ;    |.`;  ;           .   : |: |          |   :  |         /___/ \  | |         |   :  |         :  |   /\   \ "  
+	Escribir"       `----`  |  |           |   |  \ :          '   '  ;         \   ;  \ ` |         '   '  ;         |  :  ` ;.   : " 
+	Escribir"           `   :  ;           |   : .  /          |   |  |          \   \  \: |         |   |  |         |  |  ;/  \   \ "
+	Escribir"           |   |  `           ;   | |  \          `   :  ;           ;   \  ` .         `   :  ;         `  :  | \  \ ,` "
+	Escribir"           `   :  |           |   | ;\  \         |   |  `            \   \   `         |   |  `         |  |  `  `--`   "
+	Escribir"           ;   |.`            :   ` | \.`         `   :  |             \   `  ;         `   :  |         |  :  :         "
+	Escribir"           `---`              :   : :-`           ;   |.`               :   \ |         ;   |.`          |  | ,`         "
+	Escribir"                              |   |.`             `---`                  `---``          `---`            `--``           "
+	Escribir"                              `---`                                                                                     "
+	Escribir "                            "
+	Escribir "                            "
+	Escribir "                            "
+	Escribir "                                                       C A R G A N D O . . ."
+	Esperar 1 Segundos
+	Borrar Pantalla
 	Escribir "                            "
 	Escribir "                            "
 	Escribir "                            "
 	Escribir "                            "
 	Escribir "                            "
 	Escribir "                            "
+	Escribir"                    ,----,                                                                                    "                
+	Escribir"                  ,/   .`|                                                                                         "           
+	Escribir"                ,`   .`  :         ,-.----.               ,---,                                 ,---,            ,---,   "     
+	Escribir"              ;    ;     /         \    /  \           ,`--.` |                ,---.         ,`--.` |           `  .` \  "     
+	Escribir"            .`___,/    ,`          ;   :    \          |   :  :               /__./|         |   :  :          /  ;    `. "    
+	Escribir"            |    :     |           |   | .\ :          :   |  `          ,---.;  ; |         :   |  `         :  :       \ "   
+	Escribir"            ;    |.`;  ;           .   : |: |          |   :  |         /___/ \  | |         |   :  |         :  |   /\   \ "  
+	Escribir"            `----`  |  |           |   |  \ :          '   '  ;         \   ;  \ ` |         '   '  ;         |  :  ` ;.   : " 
+	Escribir"                `   :  ;           |   : .  /          |   |  |          \   \  \: |         |   |  |         |  |  ;/  \   \ "
+	Escribir"                |   |  `           ;   | |  \          `   :  ;           ;   \  ` .         `   :  ;         `  :  | \  \ ,` "
+	Escribir"                `   :  |           |   | ;\  \         |   |  `            \   \   `         |   |  `         |  |  `  `--`   "
+	Escribir"                ;   |.`            :   ` | \.`         `   :  |             \   `  ;         `   :  |         |  :  :         "
+	Escribir"                `---`              :   : :-`           ;   |.`               :   \ |         ;   |.`          |  | ,`         "
+	Escribir"                                   |   |.`             `---`                  `---``          `---`            `--``           "
+	Escribir"                                   `---`                                                                                     "
+	Escribir "                            "
+	Escribir "                            "
+	Escribir "                            "
+	Escribir "                                                       C A R G A N D O . . ."
+	Esperar 1 Segundos
+	Borrar Pantalla
+	Escribir "                            "
+	Escribir "                            "
+	Escribir "                            "
+	Escribir "                            "
+	Escribir "                            "
+	Escribir "                            "
+	Escribir "                            "
+	Escribir "                            "
+	Escribir "                            "
+	Escribir "                            "
+	Escribir"               ,----,                                                                                    "                
+	Escribir"             ,/   .`|                                                                                         "           
+	Escribir"           ,`   .`  :         ,-.----.               ,---,                                 ,---,            ,---,   "     
+	Escribir"         ;    ;     /         \    /  \           ,`--.` |                ,---.         ,`--.` |           `  .` \  "     
+	Escribir"       .`___,/    ,`          ;   :    \          |   :  :               /__./|         |   :  :          /  ;    `. "    
+	Escribir"       |    :     |           |   | .\ :          :   |  `          ,---.;  ; |         :   |  `         :  :       \ "   
+	Escribir"       ;    |.`;  ;           .   : |: |          |   :  |         /___/ \  | |         |   :  |         :  |   /\   \ "  
+	Escribir"       `----`  |  |           |   |  \ :          '   '  ;         \   ;  \ ` |         '   '  ;         |  :  ` ;.   : " 
+	Escribir"           `   :  ;           |   : .  /          |   |  |          \   \  \: |         |   |  |         |  |  ;/  \   \ "
+	Escribir"           |   |  `           ;   | |  \          `   :  ;           ;   \  ` .         `   :  ;         `  :  | \  \ ,` "
+	Escribir"           `   :  |           |   | ;\  \         |   |  `            \   \   `         |   |  `         |  |  `  `--`   "
+	Escribir"           ;   |.`            :   ` | \.`         `   :  |             \   `  ;         `   :  |         |  :  :         "
+	Escribir"           `---`              :   : :-`           ;   |.`               :   \ |         ;   |.`          |  | ,`         "
+	Escribir"                              |   |.`             `---`                  `---``          `---`            `--``           "
+	Escribir"                              `---`                                                                                     "
+	Escribir "                            "
+	Escribir "                            "
+	Escribir "                            "
+	Escribir "                                                       C A R G A N D O . . ."
 	
 	Definir pregunta1, pregunta2, pregunta3 Como Caracter
 	Escribir"                             "
@@ -38,6 +96,9 @@ Algoritmo TRIVIA
 	Escribir "                            "
 	Escribir "                            "
 	Escribir "                            "
+	Esperar 4 Segundos
+	Borrar Pantalla
+	
 	
 	Escribir "            .-.   .-. .-.    .----.    .---.    .----.    .-. .-.    .---.     .---.    .-.    .----.    .-. .-.   .----.    .----."
 	Escribir "            | |   |  `| |   { {__     {_   _}   | {}  }   | { } |   /  ___}   /  ___}   | |   /  {}  \   |  `| |   | {_     { {__  "
@@ -57,43 +118,53 @@ Algoritmo TRIVIA
 	Escribir "                                                                      P I E R D E S.	"
 	Escribir "                                                                    "
 	Escribir "                                                                     "
+	Escribir "                                                           P A R A   C O N T I N U A R   T O Q U E"
+	Escribir "                                                               C U A L Q U I E R   T E C L A."
 	Escribir "                            "
-	Escribir "                            "
-	Escribir "                            "
+	
+	Esperar Tecla
+	Borrar Pantalla
 	
 	Escribir "                                                     ¿L A   B A L L E N A   E S   U N   M A M Í F E R O?"
 	Leer pregunta1
 	Escribir "                            "
 	Escribir "                            "
 	Escribir "                            "
-	Si pregunta1="si" Entonces
+	Si pregunta1="si" o pregunta1="Si" o pregunta1="SI" Entonces
 		Escribir "                                                     ¿L O S   H U M A N O S   S O N   C A R N Í V O R O S?"
 		Leer pregunta2
 		Escribir "                            "
 		Escribir "                            "
 		Escribir "                            "
-		Si pregunta2="no" Entonces
+		Si pregunta2="no" o pregunta2="No" o pregunta2="NO" Entonces
 			Escribir "                                                      ¿E L   P A D R E   D E L   P S I C O A N Á L I S I S   E S   S I G M U N D   F R E U D?"
 			Leer pregunta3
 			Escribir "                            "
 			Escribir "                            "
 			Escribir "                            "
 		Fin Si
-		Si pregunta3="si" Entonces
+		Si pregunta3="si" o pregunta3="Si" o pregunta3="SI" Entonces
+			Esperar 1 Segundos
+			Borrar Pantalla
 			Escribir"                                                                     __ooooooooo__"
+			Esperar 1 Segundos
 			Escribir"                                                                oOOOOOOOOOOOOOOOOOOOOOo"
+			Esperar 1 Segundos
 			Escribir"                                                            oOOOOOOOOOOOOOOOOOOOOOOOOOOOOOo"
 			Escribir"                                                        oOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOo"
 			Escribir"                                                      oOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOo"
 			Escribir"                                                    oOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOo"
 			Escribir"                                                   oOOOOOOOOOOO*  *OOOOOOOOOOOOOO*  *OOOOOOOOOOOOo"
+			Esperar 1 Segundos
 			Escribir"                                                  oOOOOOOOOOOO      OOOOOOOOOOOO      OOOOOOOOOOOOo"
 			Escribir"                                                  oOOOOOOOOOOOOo  oOOOOOOOOOOOOOOo  oOOOOOOOOOOOOOo"
 			Escribir"                                                 oOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOo"
 			escribir"                                                 oOOOO     OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO     OOOOo"
 			Escribir"                                                 oOOOOOO OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO OOOOOOo"
 			Escribir"                                                  *OOOOO  OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO  OOOOO*"
+			Esperar 1 Segundos
 			Escribir"                                                  *OOOOOO  *OOOOOOOOOOOOOOOOOOOOOOOOOOOOO*  OOOOOO*"
+			Esperar 1 Segundos
 			Escribir"                                                   *OOOOOO  *OOOOOOOOOOOOOOOOOOOOOOOOOOO*  OOOOOO*"
 			Escribir"                                                    *OOOOOOo  *OOOOOOOOOOOOOOOOOOOOOOO*  oOOOOOO*"
 			Escribir"                                                      *OOOOOOOo  *OOOOOOOOOOOOOOOOO*  oOOOOOOO*"
@@ -101,15 +172,20 @@ Algoritmo TRIVIA
 			Escribir"                                                           *OOOOOOOOo           oOOOOOOOO*      "
 			Escribir"                                                                *OOOOOOOOOOOOOOOOOOOOO*           "         
 			Escribir"                                                                       ooooooooo "
+			Esperar 1 Segundos
 			Escribir "                                                    "
 			Escribir  "                                                     ¡ F E L I C I D A D E S ,   G A N A S T E !"
-			SiNo
+		SiNo
+			Esperar 1 Segundos
+			Borrar Pantalla
 				Escribir"                                                                       uuuuuuu"
+				Esperar 1 Segundos
 				Escribir"                                                                   uu$$$$$$$$$$$uu			"
 				Escribir"                                                                uu$$$$$$$$$$$$$$$$$uu			"
 				Escribir"                                                               u$$$$$$$$$$$$$$$$$$$$$u		"
 				Escribir"                                                              u$$$$$$$$$$$$$$$$$$$$$$$u		"
 				Escribir"                                                             u$$$$$$$$$$$$$$$$$$$$$$$$$u		"
+				Esperar 1 Segundos
 				Escribir"                                                             u$$$$$$$$$$$$$$$$$$$$$$$$$u		"
 				Escribir"                                                             u$$$$$$"   "$$$"   "$$$$$$u		"
 				Escribir"                                                              $$$$       u$u       $$$$"		
@@ -120,6 +196,7 @@ Algoritmo TRIVIA
 				Escribir"                                                                  u$$$$$$$u$$$$$$$u      "
 				Escribir"                                                                   u$$$$$$$$$$$$$u       "
 				Escribir"                                                        uuu        $$u$ $ $ $ $u$$       uuu   "
+				Esperar 1 Segundos
 				Escribir"                                                       u$$$$        $$$$$u$u$u$$$       u$$$$   "
 				Escribir"                                                        $$$$$uu       $$$$$$$$$     uu$$$$$$   "
 				Escribir"                                                      u$$$$$$$$$$$uu    $$$$$    uuuu$$$$$$$$$$  "
@@ -130,15 +207,20 @@ Algoritmo TRIVIA
 				Escribir"                                                        $$$$$$$$$$$$$$           $$$$$$$$$$$$$$ "
 				Escribir"                                                         $$$$$$                     $$$$$$$$ "
 				Escribir"                                                         $$$$                         $$$$$  "
+				Esperar 1 Segundos
 				Escribir "                                                                  P E R D I S T E                  "           
 			Fin Si
 		SiNo
+			Esperar 1 Segundos
+			Borrar Pantalla
 			Escribir"                                                                       uuuuuuu"
+			Esperar 1 Segundos
 			Escribir"                                                                   uu$$$$$$$$$$$uu			"
 			Escribir"                                                                uu$$$$$$$$$$$$$$$$$uu			"
 			Escribir"                                                               u$$$$$$$$$$$$$$$$$$$$$u		"
 			Escribir"                                                              u$$$$$$$$$$$$$$$$$$$$$$$u		"
 			Escribir"                                                             u$$$$$$$$$$$$$$$$$$$$$$$$$u		"
+			Esperar 1 Segundos
 			Escribir"                                                             u$$$$$$$$$$$$$$$$$$$$$$$$$u		"
 			Escribir"                                                             u$$$$$$"   "$$$"   "$$$$$$u		"
 			Escribir"                                                              $$$$       u$u       $$$$"		
@@ -149,6 +231,7 @@ Algoritmo TRIVIA
 			Escribir"                                                                  u$$$$$$$u$$$$$$$u      "
 			Escribir"                                                                   u$$$$$$$$$$$$$u       "
 			Escribir"                                                        uuu        $$u$ $ $ $ $u$$       uuu   "
+			Esperar 1 Segundos
 			Escribir"                                                       u$$$$        $$$$$u$u$u$$$       u$$$$   "
 			Escribir"                                                        $$$$$uu       $$$$$$$$$     uu$$$$$$   "
 			Escribir"                                                      u$$$$$$$$$$$uu    $$$$$    uuuu$$$$$$$$$$  "
@@ -159,7 +242,8 @@ Algoritmo TRIVIA
 			Escribir"                                                        $$$$$$$$$$$$$$           $$$$$$$$$$$$$$ "
 			Escribir"                                                         $$$$$$                     $$$$$$$$ "
 			Escribir"                                                         $$$$                         $$$$$  "
-			Escribir "                                                                  P E R D I S T E                  "
+			Esperar 1 Segundos
+			Escribir "                                                                  P E R D I S T E                  " 
 		Fin Si
 	
 		
