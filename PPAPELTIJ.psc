@@ -108,7 +108,7 @@ Algoritmo PPAPELTIJ
 	Escribir ""
 	Escribir ""
 	Escribir ""
-    	Escribir "                                                        ___     __     ____     ___     __     __ _    ____     __   "            
+	Escribir "                                                        ___     __     ____     ___     __     __ _    ____     __   "            
 	Escribir "                                                       / __)   / _\   (  _ \   / __)   / _\   (  ( \  (    \   /  \   "           
 	Escribir "                                                      ( (__   /    \   )   /  ( (_ \  /    \  /    /   ) D (  (  O )   _   "
 	Escribir "                                                       \___)  \_/\_/  (__\_)   \___/  \_/\_/  \_)__)  (____/   \__/   (_)"
@@ -125,7 +125,7 @@ Algoritmo PPAPELTIJ
 	Escribir ""
 	Escribir ""
 	Escribir ""
-    	Escribir "                                                        ___     __     ____     ___     __     __ _    ____     __   "            
+	Escribir "                                                        ___     __     ____     ___     __     __ _    ____     __   "            
 	Escribir "                                                       / __)   / _\   (  _ \   / __)   / _\   (  ( \  (    \   /  \   "           
 	Escribir "                                                      ( (__   /    \   )   /  ( (_ \  /    \  /    /   ) D (  (  O )   _  _   "
 	Escribir "                                                       \___)  \_/\_/  (__\_)   \___/  \_/\_/  \_)__)  (____/   \__/   (_)(_)"
@@ -142,7 +142,7 @@ Algoritmo PPAPELTIJ
 	Escribir ""
 	Escribir ""
 	Escribir ""
-    	Escribir "                                                        ___     __     ____     ___     __     __ _    ____     __   "            
+	Escribir "                                                        ___     __     ____     ___     __     __ _    ____     __   "            
 	Escribir "                                                       / __)   / _\   (  _ \   / __)   / _\   (  ( \  (    \   /  \   "           
 	Escribir "                                                      ( (__   /    \   )   /  ( (_ \  /    \  /    /   ) D (  (  O )   _  _  _ "
 	Escribir "                                                       \___)  \_/\_/  (__\_)   \___/  \_/\_/  \_)__)  (____/   \__/   (_)(_)(_)"
@@ -185,8 +185,6 @@ Algoritmo PPAPELTIJ
 	Escribir ""
 	Escribir ""
 	Escribir ""
-	Escribir ""
-	Escribir ""
 	Escribir "                                                                        E L I G E :"
 	Escribir "                                                                      (1) P I E D R A"
 	Escribir "                                                                      (2) P A P E L"
@@ -205,9 +203,6 @@ Algoritmo PPAPELTIJ
 		Si opciones= cpu_opciones Entonces
 			Borrar Pantalla
 			Esperar 1 Segundos
-			Escribir ""
-			Escribir ""
-			Escribir ""
 			Escribir ""
 			Escribir ""
 			Escribir ""
@@ -251,9 +246,6 @@ Algoritmo PPAPELTIJ
 						Escribir ""
 						Escribir ""
 						Escribir ""
-						Escribir ""
-						Escribir ""
-						Escribir ""
 						Escribir "                                           P L A Y E R   2   H A   E L E G I D O   P A P E L"
 						Escribir "          	             _    ,-,    _                                  /´\   "
 						Escribir "                   ,--, /: :\/´: :`\/: :\                           /´´\|\./|/´´\  "
@@ -282,9 +274,6 @@ Algoritmo PPAPELTIJ
 					SiNo
 						Borrar Pantalla
 						Esperar 1 Segundos
-						Escribir ""
-						Escribir ""
-						Escribir ""
 						Escribir ""
 						Escribir ""
 						Escribir ""
@@ -331,9 +320,6 @@ Algoritmo PPAPELTIJ
 						Escribir ""
 						Escribir ""
 						Escribir ""
-						Escribir ""
-						Escribir ""
-						Escribir ""
 						Escribir "                                          P L A Y E R   2   H A   E L E G I D O   P I E D R A"
 						Escribir " "
 						Escribir "          	                         /´\   "
@@ -363,9 +349,6 @@ Algoritmo PPAPELTIJ
 					SiNo
 						Borrar Pantalla
 						Esperar 1 Segundos
-						Escribir ""
-						Escribir ""
-						Escribir ""
 						Escribir ""
 						Escribir ""
 						Escribir ""
@@ -414,9 +397,6 @@ Algoritmo PPAPELTIJ
 						Escribir ""
 						Escribir ""
 						Escribir ""
-						Escribir ""
-						Escribir ""
-						Escribir ""
 						Escribir "                                         P L A Y E R   2   H A   E L E G I D O   P A P E L"
 						Escribir "                                                 ____" 
 						Escribir "                                     ____       /    \                          	           /´\   "
@@ -445,9 +425,6 @@ Algoritmo PPAPELTIJ
 					SiNo
 						Borrar Pantalla
 						Esperar 1 Segundos
-						Escribir ""
-						Escribir ""
-						Escribir ""
 						Escribir ""
 						Escribir ""
 						Escribir ""
@@ -502,6 +479,7 @@ Algoritmo PPAPELTIJ
 					Escribir "              "
 					Escribir "              "
 			Fin Segun
+			Borrar Pantalla
 			Esperar 1 Segundos
 			Escribir ""
 			Escribir ""
@@ -519,6 +497,8 @@ Algoritmo PPAPELTIJ
 			Escribir "              "
 			Escribir "              "
 			Escribir "              "
+			Esperar 2 Segundos
+			Borrar Pantalla
 		FinSi
 	Fin Para
 	
@@ -554,12 +534,19 @@ Algoritmo PPAPELTIJ
 		Escribir "                                                                      (2) P A P E L"
 		Escribir "                                                                      (3) T I J E R A"
 		Esperar 2 Segundos
-		
+		Borrar Pantalla
 	FinSi
 	
 	Si victorias_cpu>victorias_usuario  Entonces
 		Borrar Pantalla
 		Esperar 1 Segundos
+		Escribir ""
+		Escribir ""
+		Escribir ""
+		Escribir ""
+		Escribir ""
+		Escribir ""
+		Escribir ""
 		Escribir"                                                                       uuuuuuu"
 		Escribir"                                                                   uu$$$$$$$$$$$uu			"
 		Esperar 1 Segundos
@@ -593,6 +580,13 @@ Algoritmo PPAPELTIJ
 	SiNo
 		Borrar Pantalla
 		Esperar 1 Segundos
+		Escribir ""
+		Escribir ""
+		Escribir ""
+		Escribir ""
+		Escribir ""
+		Escribir ""
+		Escribir ""
 		Escribir"                                                                     __ooooooooo__"
 		Escribir"                                                                oOOOOOOOOOOOOOOOOOOOOOo"
 		Esperar 1 Segundos
