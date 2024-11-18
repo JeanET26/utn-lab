@@ -29,7 +29,7 @@ Algoritmo TRIVIA
 	Escribir "                            "
 	Escribir "                            "
 	Escribir "                            "
-	Escribir "                                                       C A R G A N D O . . ."
+	Escribir "                                                      "
 	Esperar 1 Segundos
 	Borrar Pantalla
 	Escribir "                            "
@@ -56,7 +56,7 @@ Algoritmo TRIVIA
 	Escribir "                            "
 	Escribir "                            "
 	Escribir "                            "
-	Escribir "                                                       C A R G A N D O . . ."
+	Escribir "                                                      "
 	Esperar 1 Segundos
 	Borrar Pantalla
 	Escribir "                            "
@@ -87,19 +87,64 @@ Algoritmo TRIVIA
 	Escribir "                            "
 	Escribir "                            "
 	Escribir "                            "
-	Escribir "                                                       C A R G A N D O . . ."
-	
+	Escribir "                                                  "
 	Definir pregunta1, pregunta2, pregunta3 Como Caracter
-	Escribir"                             "
-	Escribir "                            "
-	Escribir "                            "
-	Escribir "                            "
-	Escribir "                            "
-	Escribir "                            "
-	Esperar 4 Segundos
 	Borrar Pantalla
-	
-	
+	Esperar 2 Segundos
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+    	Escribir "                                                        ___     __     ____     ___     __     __ _    ____     __   "            
+	Escribir "                                                       / __)   / _\   (  _ \   / __)   / _\   (  ( \  (    \   /  \   "           
+	Escribir "                                                      ( (__   /    \   )   /  ( (_ \  /    \  /    /   ) D (  (  O )   _   "
+	Escribir "                                                       \___)  \_/\_/  (__\_)   \___/  \_/\_/  \_)__)  (____/   \__/   (_)"
+	Esperar 1 Segundos
+	Borrar Pantalla
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+    	Escribir "                                                        ___     __     ____     ___     __     __ _    ____     __   "            
+	Escribir "                                                       / __)   / _\   (  _ \   / __)   / _\   (  ( \  (    \   /  \   "           
+	Escribir "                                                      ( (__   /    \   )   /  ( (_ \  /    \  /    /   ) D (  (  O )   _  _   "
+	Escribir "                                                       \___)  \_/\_/  (__\_)   \___/  \_/\_/  \_)__)  (____/   \__/   (_)(_)"
+	Esperar 1 Segundos
+	Borrar Pantalla
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+    	Escribir "                                                        ___     __     ____     ___     __     __ _    ____     __   "            
+	Escribir "                                                       / __)   / _\   (  _ \   / __)   / _\   (  ( \  (    \   /  \   "           
+	Escribir "                                                      ( (__   /    \   )   /  ( (_ \  /    \  /    /   ) D (  (  O )   _  _  _ "
+	Escribir "                                                       \___)  \_/\_/  (__\_)   \___/  \_/\_/  \_)__)  (____/   \__/   (_)(_)(_)"
+	Esperar 2 Segundos
+	Borrar Pantalla
+	Escribir ""
+	Escribir ""
+	Escribir ""
 	Escribir "            .-.   .-. .-.    .----.    .---.    .----.    .-. .-.    .---.     .---.    .-.    .----.    .-. .-.   .----.    .----."
 	Escribir "            | |   |  `| |   { {__     {_   _}   | {}  }   | { } |   /  ___}   /  ___}   | |   /  {}  \   |  `| |   | {_     { {__  "
 	Escribir "            | |   | |\  |   .-._} }     | |     | .-. \   | {_} |   \     }   \     }   | |   \      /   | |\  |   | {__    .-._} }"
