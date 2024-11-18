@@ -6,6 +6,11 @@ Algoritmo PPAPELTIJ
 	Escribir ""
 	Escribir ""
 	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
 	Escribir "	        _    ,-,    _                            __________  .___  ___________ ________    __________    _____  "
 	Escribir " ,--, /: :\/´: :`\/: :\                           \______   \ |   | \_   _____/ \______ \   \______   \  /  _  \  "
 	Escribir "|`;  ´ `,´   `.;    `: |                           |     ___/ |   |  |    __)_   |    |  \   |       _/ /  /_\  \"
@@ -19,6 +24,11 @@ Algoritmo PPAPELTIJ
 	Escribir "	"
 	Esperar 1 Segundos
 	Borrar Pantalla
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
 	Escribir ""
 	Escribir ""
 	Escribir ""
@@ -53,6 +63,11 @@ Algoritmo PPAPELTIJ
 	Escribir ""
 	Escribir ""
 	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
 	Escribir "               ____"
 	Escribir "   ____       /    \"
 	Escribir "  |    \      |    |"
@@ -79,6 +94,58 @@ Algoritmo PPAPELTIJ
 	Escribir ""
 	Escribir ""
 	Escribir ""
+	Esperar 1 Segundos
+	Borrar Pantalla
+	Esperar 2 Segundos
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+    	Escribir "                                                        ___     __     ____     ___     __     __ _    ____     __   "            
+	Escribir "                                                       / __)   / _\   (  _ \   / __)   / _\   (  ( \  (    \   /  \   "           
+	Escribir "                                                      ( (__   /    \   )   /  ( (_ \  /    \  /    /   ) D (  (  O )   _   "
+	Escribir "                                                       \___)  \_/\_/  (__\_)   \___/  \_/\_/  \_)__)  (____/   \__/   (_)"
+	Esperar 1 Segundos
+	Borrar Pantalla
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+    	Escribir "                                                        ___     __     ____     ___     __     __ _    ____     __   "            
+	Escribir "                                                       / __)   / _\   (  _ \   / __)   / _\   (  ( \  (    \   /  \   "           
+	Escribir "                                                      ( (__   /    \   )   /  ( (_ \  /    \  /    /   ) D (  (  O )   _  _   "
+	Escribir "                                                       \___)  \_/\_/  (__\_)   \___/  \_/\_/  \_)__)  (____/   \__/   (_)(_)"
+	Esperar 1 Segundos
+	Borrar Pantalla
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+    	Escribir "                                                        ___     __     ____     ___     __     __ _    ____     __   "            
+	Escribir "                                                       / __)   / _\   (  _ \   / __)   / _\   (  ( \  (    \   /  \   "           
+	Escribir "                                                      ( (__   /    \   )   /  ( (_ \  /    \  /    /   ) D (  (  O )   _  _  _ "
+	Escribir "                                                       \___)  \_/\_/  (__\_)   \___/  \_/\_/  \_)__)  (____/   \__/   (_)(_)(_)"
 	Esperar 2 Segundos
 	Borrar Pantalla
 	Escribir "            .-.   .-. .-.    .----.    .---.    .----.    .-. .-.    .---.     .---.    .-.    .----.    .-. .-.   .----.    .----."
@@ -116,6 +183,10 @@ Algoritmo PPAPELTIJ
 	Escribir ""
 	Escribir ""
 	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
 	Escribir "                                                                        E L I G E :"
 	Escribir "                                                                      (1) P I E D R A"
 	Escribir "                                                                      (2) P A P E L"
@@ -134,6 +205,17 @@ Algoritmo PPAPELTIJ
 		Si opciones= cpu_opciones Entonces
 			Borrar Pantalla
 			Esperar 1 Segundos
+			Escribir ""
+			Escribir ""
+			Escribir ""
+			Escribir ""
+			Escribir ""
+			Escribir ""
+			Escribir ""
+			Escribir ""
+			Escribir ""
+			Escribir ""
+			Escribir ""
 			Escribir "                                                                       E M P A T E "
 			Escribir "              "
 			Escribir"                                                                     __..,,... .,,,,,. "
@@ -156,6 +238,17 @@ Algoritmo PPAPELTIJ
 					Borrar Pantalla
 					Esperar 1 Segundos
 					Si cpu_opciones = 2 Entonces
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
 						Escribir "                                           P L A Y E R   2   H A   E L E G I D O   P A P E L"
 						Escribir "          	             _    ,-,    _                                  /´\   "
 						Escribir "                   ,--, /: :\/´: :`\/: :\                           /´´\|\./|/´´\  "
@@ -179,6 +272,17 @@ Algoritmo PPAPELTIJ
 					SiNo
 						Borrar Pantalla
 						Esperar 1 Segundos
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
 						Escribir "                                           P L A Y E R   2   H A   E L E G I D O   T I J E R A"
 						Escribir "                                                  "
 						Escribir "                              _    ,-,    _                                             ____" 
@@ -204,6 +308,17 @@ Algoritmo PPAPELTIJ
 					Borrar Pantalla
 					Esperar 1 Segundos
 					Si cpu_opciones=1 Entonces
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
 						Escribir "                                          P L A Y E R   2   H A   E L E G I D O   P I E D R A"
 						Escribir " "
 						Escribir "          	                         /´\   "
@@ -228,6 +343,17 @@ Algoritmo PPAPELTIJ
 					SiNo
 						Borrar Pantalla
 						Esperar 1 Segundos
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
 						Escribir "                                          P L A Y E R   2   H A   E L E G I D O   T I J E R A"
 						Escribir " "
 						Escribir "                                    /´\   "
@@ -255,6 +381,17 @@ Algoritmo PPAPELTIJ
 					Borrar Pantalla
 					Esperar 1 Segundos
 					Si cpu_opciones = 2 Entonces
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
 						Escribir "                                         P L A Y E R   2   H A   E L E G I D O   P A P E L"
 						Escribir "                                                 ____" 
 						Escribir "                                     ____       /    \                          	           /´\   "
@@ -278,6 +415,17 @@ Algoritmo PPAPELTIJ
 					SiNo
 						Borrar Pantalla
 						Esperar 1 Segundos
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
+						Escribir ""
 						Escribir "                                         P L A Y E R   2   H A   E L E G I D O   P I E D R A"
 						Escribir "                                                 ____" 
 						Escribir "                                     ____       /    \ "
@@ -302,6 +450,17 @@ Algoritmo PPAPELTIJ
 				De Otro Modo:
 					Borrar Pantalla
 					Esperar 1 Segundos
+					Escribir ""
+					Escribir ""
+					Escribir ""
+					Escribir ""
+					Escribir ""
+					Escribir ""
+					Escribir ""
+					Escribir ""
+					Escribir ""
+					Escribir ""
+					Escribir ""
 					Escribir "                                                    P O R   F A V O R   I N G R E S E   U N A "
 					Escribir "                                                           O P C I Ó N    V Á L I D A "
 					Escribir "              "
@@ -309,6 +468,17 @@ Algoritmo PPAPELTIJ
 					Escribir "              "
 			Fin Segun
 			Esperar 1 Segundos
+			Escribir ""
+			Escribir ""
+			Escribir ""
+			Escribir ""
+			Escribir ""
+			Escribir ""
+			Escribir ""
+			Escribir ""
+			Escribir ""
+			Escribir ""
+			Escribir ""
 			Escribir "                                                                T Ú:                   ", victorias_usuario
 			Escribir "                                                                P L A Y E R   2:       ", victorias_cpu
 			Escribir "              "
@@ -320,6 +490,17 @@ Algoritmo PPAPELTIJ
 	Si victorias_cpu = victorias_usuario Entonces
 		Borrar Pantalla
 		Esperar 1 Segundos
+		Escribir ""
+		Escribir ""
+		Escribir ""
+		Escribir ""
+		Escribir ""
+		Escribir ""
+		Escribir ""
+		Escribir ""
+		Escribir ""
+		Escribir ""
+		Escribir ""
 		Escribir "                                                                       E M P A T E "
 		Escribir "              "
 		Escribir"                                                                     __..,,... .,,,,,. "
