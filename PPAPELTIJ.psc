@@ -229,6 +229,11 @@ Algoritmo PPAPELTIJ
 			Escribir"                                                                               ` -´`´´"
 			Escribir "              "
 			Escribir "              "
+			Escribir "                                                                        E L I G E :"
+			Escribir "                                                                      (1) P I E D R A"
+			Escribir "                                                                      (2) P A P E L"
+			Escribir "                                                                      (3) T I J E R A"
+			Esperar 2 Segundos
 			victorias_cpu=victorias_cpu+1
 			victorias_usuario=victorias_usuario+1
 			
@@ -268,6 +273,11 @@ Algoritmo PPAPELTIJ
 						Escribir "              "
 						Escribir "              "
 						Escribir "              "
+						Escribir "                                                                        E L I G E :"
+						Escribir "                                                                      (1) P I E D R A"
+						Escribir "                                                                      (2) P A P E L"
+						Escribir "                                                                      (3) T I J E R A"
+						Esperar 2 Segundos
 						victorias_cpu=victorias_cpu+1
 					SiNo
 						Borrar Pantalla
@@ -302,6 +312,11 @@ Algoritmo PPAPELTIJ
 						Escribir "                                                   P I E D R A   M A T A   T I J E R A"
 						Escribir " "
 						Escribir " "
+						Escribir "                                                                        E L I G E :"
+						Escribir "                                                                      (1) P I E D R A"
+						Escribir "                                                                      (2) P A P E L"
+						Escribir "                                                                      (3) T I J E R A"
+						Esperar 2 Segundos
 						victorias_usuario=victorias_usuario+1
 					Fin Si
 				2: //papel
@@ -339,6 +354,11 @@ Algoritmo PPAPELTIJ
 						Escribir "              "
 						Escribir "              "
 						Escribir "              "
+						Escribir "                                                                        E L I G E :"
+						Escribir "                                                                      (1) P I E D R A"
+						Escribir "                                                                      (2) P A P E L"
+						Escribir "                                                                      (3) T I J E R A"
+						Esperar 2 Segundos
 						victorias_usuario=victorias_usuario+1
 					SiNo
 						Borrar Pantalla
@@ -375,6 +395,11 @@ Algoritmo PPAPELTIJ
 						Escribir "              "
 						Escribir "              "
 						Escribir "              "
+						Escribir "                                                                        E L I G E :"
+						Escribir "                                                                      (1) P I E D R A"
+						Escribir "                                                                      (2) P A P E L"
+						Escribir "                                                                      (3) T I J E R A"
+						Esperar 2 Segundos
 						victorias_cpu=victorias_cpu+1
 					Fin Si
 				3: //tijera
@@ -411,6 +436,11 @@ Algoritmo PPAPELTIJ
 						Escribir "              "
 						Escribir "              "
 						Escribir "              "
+						Escribir "                                                                        E L I G E :"
+						Escribir "                                                                      (1) P I E D R A"
+						Escribir "                                                                      (2) P A P E L"
+						Escribir "                                                                      (3) T I J E R A"
+						Esperar 2 Segundos
 						victorias_usuario=victorias_usuario+1
 					SiNo
 						Borrar Pantalla
@@ -445,6 +475,11 @@ Algoritmo PPAPELTIJ
 						Escribir "              "
 						Escribir "              "
 						Escribir "              "
+						Escribir "                                                                        E L I G E :"
+						Escribir "                                                                      (1) P I E D R A"
+						Escribir "                                                                      (2) P A P E L"
+						Escribir "                                                                      (3) T I J E R A"
+						Esperar 2 Segundos
 						victorias_cpu=victorias_cpu+1
 					Fin Si
 				De Otro Modo:
@@ -514,6 +549,11 @@ Algoritmo PPAPELTIJ
 		Escribir"                                                                               ` -´`´´"
 		Escribir "              "
 		Escribir "              "
+		Escribir "                                                                        E L I G E :"
+		Escribir "                                                                      (1) P I E D R A"
+		Escribir "                                                                      (2) P A P E L"
+		Escribir "                                                                      (3) T I J E R A"
+		Esperar 2 Segundos
 		
 	FinSi
 	
