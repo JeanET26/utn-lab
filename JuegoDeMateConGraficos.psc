@@ -697,7 +697,6 @@ Funcion correcta<- LeerRespuesta2(num1, num2)
 			Escribir ""
 			Escribir ""
 			Escribir ""
-			Esperar 3 Segundos
 			correcta <- num1 + num2
 		Caso 2:
 			Esperar 2 Segundos
@@ -729,7 +728,6 @@ Funcion correcta<- LeerRespuesta2(num1, num2)
 			Escribir ""
 			Escribir ""
 			Escribir ""
-			Esperar 3 Segundos
 			correcta <- num1 - num2
 		Caso 3:
 			Esperar 2 Segundos
@@ -760,7 +758,7 @@ Funcion correcta<- LeerRespuesta2(num1, num2)
 			Escribir "                                                              |_____________________|"
 			Escribir ""
 			Escribir ""
-			Esperar 3 Segundos
+			Escribir ""
 			correcta <- num1 * num2 
 		Caso 4: 
 			Esperar 2 Segundos
@@ -792,7 +790,6 @@ Funcion correcta<- LeerRespuesta2(num1, num2)
 			Escribir ""
 			Escribir ""
 			Escribir ""
-			Esperar 3 Segundos
 			correcta<- num1/num2
 	FinSegun
 	
