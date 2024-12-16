@@ -4680,6 +4680,7 @@ SubAlgoritmo PPAPELTIJ
 	Escribir "                                                            C O N T I N U A R   O   0   P A R A  S A L I R "
 	leer salida 
 	si salida==0 Entonces
+		Borrar Pantalla
 		Esperar 1 Segundos
 		Escribir ""
 		Escribir ""
@@ -5544,6 +5545,7 @@ SubAlgoritmo MATEMATIX
 	leer difi
     Escribir "" 
 	si difi==0 Entonces
+		Borrar Pantalla
 		Esperar 1 Segundos
 		Escribir ""
 		Escribir ""
@@ -6605,6 +6607,7 @@ SubAlgoritmo AHORCADO
 		Escribir "                                                                        "
 		leer salida 
 		si salida==0 Entonces
+			Borrar Pantalla
 			Esperar 1 Segundos
 			Escribir ""
 			Escribir ""
@@ -7115,6 +7118,7 @@ subAlgoritmo ticTacToc
 	si salida==0 Entonces
 		leer salida 
 		si salida==0 Entonces
+			Borrar Pantalla
 			Esperar 1 Segundos
 			Escribir ""
 			Escribir ""
