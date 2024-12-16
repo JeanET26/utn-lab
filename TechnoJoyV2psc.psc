@@ -4424,6 +4424,7 @@ SubAlgoritmo TRIVIA
 	
 	Si men = 2 Entonces
 		t <- 2
+		Borrar Pantalla
 		Esperar 1 Segundos
 		Escribir ""
 		Escribir ""
