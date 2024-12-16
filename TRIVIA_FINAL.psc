@@ -170,15 +170,25 @@ Proceso Juegodepreguntas
 	Escribir "                                                     C A D A   P R E G U N T A   V A   S U M A N D O   S U  "
 	Escribir "                                                                     D I F I C U L T A D .	"
 	Escribir "                                                                    "
-	Escribir "                                                           C U I D A D O   C O N   L A   U L T I M A ,  "
-	Escribir "                                                   T E N D R A S   Q U E   E J E R C I T A R   L A   M E M O R I A "
-	Escribir "                                                                    "
 	Escribir "                                                                    "
 	Escribir "                                                               P A R A   C O N T I N U A R   T O Q U E"
 	Escribir "                                                                    C U A L Q U I E R   T E C L A."
 	Escribir "                            "
-	
 	Esperar Tecla
+	Borrar Pantalla
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir "                                                                       ¡ ¡  O J O  ! !"
+	Escribir ""
+	Escribir ""
+	Escribir ""
+	Escribir "                                                 C U I D A D O   C O N   L A   U L T I M A   P R E G U N T A,  "
+	Escribir "                                                   T E N D R A S   Q U E   E J E R C I T A R   L A   M E M O R I A . . ."
+	Escribir "                                                                    "
+	Esperar 3 Segundos
 	Borrar Pantalla
 	Mientras t = 1 hacer
 		Borrar Pantalla
