@@ -4790,7 +4790,6 @@ SubAlgoritmo PPAPELTIJ
 			Escribir "                                                                      (1) P I E D R A"
 			Escribir "                                                                      (2) P A P E L"
 			Escribir "                                                                      (3) T I J E R A"
-			
 			limite <- 3
 			victorias_usuario<-0
 			victorias_cpu<-0
@@ -4827,6 +4826,34 @@ SubAlgoritmo PPAPELTIJ
 					Escribir "              "
 					victorias_cpu=victorias_cpu+1
 					victorias_usuario=victorias_usuario+1
+					Esperar 3 Segundos
+					Borrar Pantalla
+					Escribir ""
+					Escribir ""
+					Escribir ""
+					Escribir ""
+					Escribir ""
+					Escribir ""
+					Escribir ""
+					Escribir ""
+					Escribir ""
+					Escribir ""
+					Escribir ""
+					Escribir "                                                                T U:                   ", victorias_usuario
+					Escribir "                                                                P L A Y E R   2:       ", victorias_cpu
+					Escribir "              "
+					Escribir "              "
+					Escribir "              "
+					Escribir ""
+					Escribir ""
+					Escribir ""
+					Escribir ""
+					Escribir ""
+					Escribir ""
+					Escribir "                                                                        E L I G E :"
+					Escribir "                                                                      (1) P I E D R A"
+					Escribir "                                                                      (2) P A P E L"
+					Escribir "                                                                      (3) T I J E R A"  
 					
 				SiNo
 					Segun opciones Hacer
@@ -4865,9 +4892,39 @@ SubAlgoritmo PPAPELTIJ
 								Escribir "              "
 								Escribir "              "
 								victorias_cpu=victorias_cpu+1
+								Esperar 3 Segundos
+								Borrar Pantalla
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir "                                                                T U:                   ", victorias_usuario
+								Escribir "                                                                P L A Y E R   2:       ", victorias_cpu
+								Escribir "              "
+								Escribir "              "
+								Escribir "              "
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir "                                                                        E L I G E :"
+								Escribir "                                                                      (1) P I E D R A"
+								Escribir "                                                                      (2) P A P E L"
+								Escribir "                                                                      (3) T I J E R A"  
+								
 							SiNo
 								Borrar Pantalla
 								Esperar 1 Segundos
+								victorias_usuario=victorias_usuario+1
 								Escribir ""
 								Escribir ""
 								Escribir ""
@@ -4898,7 +4955,35 @@ SubAlgoritmo PPAPELTIJ
 								Escribir "                                                   P I E D R A   M A T A   T I J E R A"
 								Escribir " "
 								Escribir " "
-								victorias_usuario=victorias_usuario+1
+								Esperar 3 Segundos
+								Borrar Pantalla
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir "                                                                T U:                   ", victorias_usuario
+								Escribir "                                                                P L A Y E R   2:       ", victorias_cpu
+								Escribir "              "
+								Escribir "              "
+								Escribir "              "
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir "                                                                        E L I G E :"
+								Escribir "                                                                      (1) P I E D R A"
+								Escribir "                                                                      (2) P A P E L"
+								Escribir "                                                                      (3) T I J E R A"  
+								
 							Fin Si
 						2: //papel
 							Borrar Pantalla
@@ -4936,6 +5021,35 @@ SubAlgoritmo PPAPELTIJ
 								Escribir "              "
 								Escribir "              "
 								victorias_usuario=victorias_usuario+1
+								Esperar 3 Segundos
+								Borrar Pantalla
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir "                                                                T U:                   ", victorias_usuario
+								Escribir "                                                                P L A Y E R   2:       ", victorias_cpu
+								Escribir "              "
+								Escribir "              "
+								Escribir "              "
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir "                                                                        E L I G E :"
+								Escribir "                                                                      (1) P I E D R A"
+								Escribir "                                                                      (2) P A P E L"
+								Escribir "                                                                      (3) T I J E R A"  
+								
 							SiNo
 								Borrar Pantalla
 								Esperar 1 Segundos
@@ -4972,6 +5086,35 @@ SubAlgoritmo PPAPELTIJ
 								Escribir "              "
 								Escribir "              "
 								victorias_cpu=victorias_cpu+1
+								Esperar 3 Segundos
+								Borrar Pantalla
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir "                                                                T U:                   ", victorias_usuario
+								Escribir "                                                                P L A Y E R   2:       ", victorias_cpu
+								Escribir "              "
+								Escribir "              "
+								Escribir "              "
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir "                                                                        E L I G E :"
+								Escribir "                                                                      (1) P I E D R A"
+								Escribir "                                                                      (2) P A P E L"
+								Escribir "                                                                      (3) T I J E R A"  
+								
 							Fin Si
 						3: //tijera
 							Borrar Pantalla
@@ -5008,6 +5151,35 @@ SubAlgoritmo PPAPELTIJ
 								Escribir "              "
 								Escribir "              "
 								victorias_usuario=victorias_usuario+1
+								Esperar 3 Segundos
+								Borrar Pantalla
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir "                                                                T U:                   ", victorias_usuario
+								Escribir "                                                                P L A Y E R   2:       ", victorias_cpu
+								Escribir "              "
+								Escribir "              "
+								Escribir "              "
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir "                                                                        E L I G E :"
+								Escribir "                                                                      (1) P I E D R A"
+								Escribir "                                                                      (2) P A P E L"
+								Escribir "                                                                      (3) T I J E R A"  
+								
 							SiNo
 								Borrar Pantalla
 								Esperar 1 Segundos
@@ -5042,6 +5214,35 @@ SubAlgoritmo PPAPELTIJ
 								Escribir "              "
 								Escribir "              "
 								victorias_cpu=victorias_cpu+1
+								Esperar 3 Segundos
+								Borrar Pantalla
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir "                                                                T U:                   ", victorias_usuario
+								Escribir "                                                                P L A Y E R   2:       ", victorias_cpu
+								Escribir "              "
+								Escribir "              "
+								Escribir "              "
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir ""
+								Escribir "                                                                        E L I G E :"
+								Escribir "                                                                      (1) P I E D R A"
+								Escribir "                                                                      (2) P A P E L"
+								Escribir "                                                                      (3) T I J E R A"                                                                
+								
 							Fin Si
 						De Otro Modo:
 							Borrar Pantalla
@@ -5063,23 +5264,6 @@ SubAlgoritmo PPAPELTIJ
 							Escribir "              "
 							Escribir "              "
 					Fin Segun
-					Esperar 1 Segundos
-					Escribir ""
-					Escribir ""
-					Escribir ""
-					Escribir ""
-					Escribir ""
-					Escribir ""
-					Escribir ""
-					Escribir ""
-					Escribir ""
-					Escribir ""
-					Escribir ""
-					Escribir "                                                                T U:                   ", victorias_usuario
-					Escribir "                                                                P L A Y E R   2:       ", victorias_cpu
-					Escribir "              "
-					Escribir "              "
-					Escribir "              "
 				FinSi
 			Fin Para
 			
@@ -5110,7 +5294,34 @@ SubAlgoritmo PPAPELTIJ
 				Escribir"                                                                               ` -?`??"
 				Escribir "              "
 				Escribir "              "
-				
+				Esperar 3 Segundos
+				Borrar Pantalla
+				Escribir ""
+				Escribir ""
+				Escribir ""
+				Escribir ""
+				Escribir ""
+				Escribir ""
+				Escribir ""
+				Escribir ""
+				Escribir ""
+				Escribir ""
+				Escribir ""
+				Escribir "                                                                T U:                   ", victorias_usuario
+				Escribir "                                                                P L A Y E R   2:       ", victorias_cpu
+				Escribir "              "
+				Escribir "              "
+				Escribir "              "
+				Escribir ""
+				Escribir ""
+				Escribir ""
+				Escribir ""
+				Escribir ""
+				Escribir ""
+				Escribir "                                                                        E L I G E :"
+				Escribir "                                                                      (1) P I E D R A"
+				Escribir "                                                                      (2) P A P E L"
+				Escribir "                                                                      (3) T I J E R A"
 			FinSi
 			
 			Si victorias_cpu>victorias_usuario  Entonces
@@ -5174,7 +5385,7 @@ SubAlgoritmo PPAPELTIJ
 				Escribir"                                                                       ooooooooo "
 				Escribir "                                                    "
 				Esperar 1 Segundos
-				Escribir  "                                                     ? F E L I C I D A D E S ,   G A N A S T E !"
+				Escribir  "                                                     ¡ F E L I C I D A D E S ,   G A N A S T E !"
 				
 			Fin Si
 			Escribir ""
@@ -5188,7 +5399,7 @@ SubAlgoritmo PPAPELTIJ
 			Escribir ""
 			Escribir "                                                            "
 			Escribir "                                                         "
-			Escribir "                                            ¿ Q U I E R E S    V O L V E R    A    J U G A R ? "
+			Escribir "                                                       ¿ Q U I E R E S    V O L V E R    A    J U G A R ? "
 			Escribir ""
 			Escribir "                                                                   (S/N)"
 			Leer opcionres
